@@ -1,0 +1,51 @@
+body {
+  background-color:  #87CEEB;
+}
+
+h1{
+  color: 
+    text-align: center;
+}
+
+h2{
+    color: #000000;
+    text-align: center;
+}
+
+h5{
+    color: #000000;
+    text-align: center;
+}
+p{
+    color: #000000;
+    text-align: center;
+}
+
+
+div {
+  background-color: white;
+  width: 300px;
+  border: 15px solid grey;
+  padding: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.nav{
+    border:1px #87CEEB;
+    border-width:1px 0;
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+    background-color: #87CEEB;
+}
+.nav li{
+    display:inline;
+    background-color: #808080;
+}
+.nav a{
+    display:inline-block;
+    padding:10px;
+    color: #000000;
+    background-color: #808080;
+}
